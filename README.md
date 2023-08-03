@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @karthikr
 - 👀 I’m interested in mobile development, web development and devops
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ... NA
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Flutter
 
 <!---
 karthikr29/karthikr29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
